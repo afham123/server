@@ -1,0 +1,11 @@
+npm init --y
+# to initialize the npm inside the folder.
+
+npm install express
+#install the express application
+
+npm i nodemon
+#as soon as I save after updating it would again run the file, which will help in our case to restart the server
+
+postman
+software to make and test api request
