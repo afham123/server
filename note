@@ -8,4 +8,17 @@ npm i nodemon
 #as soon as I save after updating it would again run the file, which will help in our case to restart the server
 
 postman
-software to make and test api request
+software to make and test api request.
+
+
+database ->a database is a collection of data inside tables.
+// MongoDB Databasae. -> It is NOSQL database.
+
+Postgres          |   MongoDB.
+
+Relational        |   Non-raltional Database
+table             |   Collection.
+Row               |   Document
+columns           |   JSON.
+table defination  |   Schema
+data base Object  |   Model
